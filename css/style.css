@@ -1,0 +1,735 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.benar {
+    z-index: 1;
+
+
+    /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+    background-image: url(../resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+
+
+
+    height: 600px;
+    width: 1320px;
+
+
+    margin: auto;
+    margin-top: 50px;
+
+    border-radius: 16px;
+    position: relative;
+
+
+
+
+
+
+
+}
+
+.new-year-benar-txt1 {
+    margin-left: 530px;
+
+    position: absolute;
+
+    z-index: 2;
+
+    color: #FFF;
+
+    padding-top: 177px;
+
+
+
+    text-align: center;
+    font-family: 'Merriweather';
+    font-size: 32px;
+
+    font-weight: 400;
+
+
+}
+
+.new-year-benar-txt {
+    margin-top: 270px;
+
+    margin-left: 370px;
+    position: absolute;
+
+    z-index: 2;
+    font-family: 'Merriweather', serif;
+    color: #FFF;
+    font-size: 72px;
+
+
+    width: 560px;
+
+
+    font-weight: 900;
+
+
+}
+
+
+
+.benar-2 {
+    width: 802.9px;
+    margin: auto;
+
+
+}
+
+.benar-2-txt-1 {
+    text-align: center;
+    color: #F00;
+
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 88px;
+
+    font-weight: 700;
+
+
+
+}
+
+/* shire */
+.opasiti {
+
+    z-index: 0;
+
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+
+    height: 600px;
+    width: 1320px;
+    position: absolute;
+    margin: auto;
+    border-radius: 16px;
+    padding-top: 0;
+
+
+}
+
+.benar-2-txt-2 {
+
+    color: #F00;
+
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 24px;
+    margin-bottom: 0;
+    font-weight: 500;
+
+
+}
+
+.benar-2-txt-3 {
+    color: #070211;
+    margin-top: 16px;
+
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 48px;
+
+    font-weight: 700;
+
+
+}
+
+.benar-2-img {
+    height: 500px;
+    width: auto;
+}
+
+
+.benar-3 {
+    display: flex;
+    z-index: 1;
+
+
+    /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+    background-image: url(../resources/Vectorrr.png);
+    background-repeat: no-repeat;
+
+
+
+    height: 600px;
+    width: 1320px;
+
+
+    margin: auto;
+    margin-top: 50px;
+
+    border-radius: 16px;
+    position: relative;
+    margin-bottom: 120px;
+    margin-top: 120px;
+}
+
+.benar-3-txt-1 {
+    margin-top: 126px;
+    margin-left: 126px;
+    position: absolute;
+
+    z-index: 2;
+
+    width: 642px;
+    color: #FFF;
+
+    font-family: 'Merriweather';
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+}
+
+.benar-3-txt-2 {
+    position: absolute;
+
+    z-index: 2;
+    margin-top: 326px;
+    margin-left: 126px;
+
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+
+}
+
+.benner-3-img {
+    position: absolute;
+    margin-top: 68.11px;
+    margin-left: 862px;
+
+    z-index: 2;
+
+}
+
+
+.btn {
+    font-family: 'Inter';
+    font-size: 20px;
+    border-radius: 8px;
+    background: #F00;
+    border: 0;
+    padding: 16px 32px;
+    color: #FFF;
+    font-weight: 700;
+
+}
+
+.benar-3-btn {
+    position: absolute;
+
+    z-index: 2;
+    margin-top: 434px;
+    margin-left: 126px;
+
+
+
+
+    text-transform: uppercase;
+
+}
+
+.benar-3-btn:hover {
+    background-color: rgb(41, 233, 41);
+}
+
+.benar-4 {
+
+    margin: auto;
+    width: 1320px;
+    height: 482px;
+
+
+    background-image: linear-gradient(rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+}
+
+.benar-4-txt {
+    text-align: center;
+    color: #070211;
+    font-family: 'Inter';
+    font-size: 32px;
+
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.benar-4-btn {
+    text-transform: uppercase;
+
+    margin-top: 45px;
+    margin-left: 576px;
+
+}
+
+.benar-4-btn:hover {
+    background-color: rgb(41, 233, 41);
+
+}
+
+.benar-4-sp {
+    color: #F00;
+}
+
+.benar-5 {
+    display: flex;
+    width: 1320px;
+    height: 463px;
+    margin: auto;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.benar-5-box-1-txt-1 {
+    color: #F00;
+
+    margin-top: 104px;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+
+
+}
+
+.benar-5-box-1-txt-2 {
+
+    color: #070211;
+    margin-top: 0px;
+
+    font-family: 'Merriweather';
+    font-size: 48px;
+
+    font-weight: 900;
+    margin-bottom: 0px;
+
+
+}
+
+.benar-5-box-1-txt-3 {
+    margin-top: 22px;
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: 'Inter';
+    font-size: 20px;
+    width: 393px;
+
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.benar-5-box-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:70px ;
+
+    width: 463px;
+    height: 463px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+}
+
+.benar-5-box-2 img {
+    width: 364.844px;
+    height: 364.844px;
+
+
+}
+
+.benar-5-box-3 {
+    margin-left: 118px;
+}
+
+.benar-5-box-3-txt-1 {
+    color: #F00;
+
+    font-family: 'Inter';
+    font-size: 48px;
+    margin-bottom: 0px;
+
+    font-weight: 700;
+
+
+}
+
+.benar-5-box-3-txt-2 {
+    margin-top: 16px;
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter';
+    font-size: 20px;
+
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 0px;
+
+
+
+
+
+}
+
+
+.benar-5-box-3-img {
+    margin-top: 43px;
+}
+
+
+
+
+.benar-6 {
+    width: 1320px;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 120px;
+
+}
+
+.benar-6-box-1-txt-1 {
+    color: #F00;
+
+    font-family: 'Inter';
+    font-size: 24px;
+    margin-bottom: 16px;
+    font-weight: 500;
+
+
+}
+
+.benar-6-box-1-txt-2 {
+
+    color: #070211;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    font-family: 'Merriweather';
+    font-size: 48px;
+    font-weight: 900;
+
+
+}
+
+.benar-6-box-1-txt-3 {
+    margin-top: 22px;
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter';
+    font-size: 20px;
+
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    margin-bottom: 0px;
+}
+
+.benar-6-box-2 {
+    width: 1320px;
+    height: auto;
+
+}
+
+.img-box img {
+    width: 410px;
+    height: 450px;
+
+}
+
+.img-box {
+    margin-top: 48px;
+    display: inline-block;
+    padding: 0;
+    border-radius: 16px;
+
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+
+.img-box:hover {
+    box-shadow: 3px 3px 15px rgb(121, 120, 120);
+}
+
+
+.benar-7 {
+    margin-top: 12px;
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: auto;
+    margin-bottom: 120px;
+}
+
+.benar-7-img {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+
+}
+
+.benar-7-txt-1 {
+    color: #070211;
+    text-align: center;
+    font-family: 'Merriweather';
+    font-size: 48px;
+
+    font-weight: 900;
+
+}
+
+.benar-7-txt-2 {
+
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: 'Inter';
+    font-size: 20px;
+
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    text-align: center;
+    margin: auto;
+    margin-bottom: 48px;
+}
+
+
+.benar-7-box-2{
+   
+    text-align: center;
+
+    margin: auto;
+}
+.benar-7-inp-1{
+    width: 648px;
+height: 72px;
+border-radius:  50px 0px 0px 50px ;
+padding-right: 0;
+background: #FFF;
+border: 0;
+}
+.benar-7-inp-1::placeholder {
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 18px;
+    
+   
+    font-weight: 400;
+    
+}
+.benar-7-inp-2{
+    width: 210px;
+height: 72px;
+border: 0;
+padding-left: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+color: #FFF;
+
+text-align: center;
+font-family: 'Inter';
+font-size: 20px;
+
+font-weight: 600;
+
+}
+.ib{
+    display: inline-block;
+}
+footer{
+
+    width: 100%;
+    height: 609px;
+    background-color: #070211;
+}
+.main-footer{
+    background-color: #070211;
+
+    width: 1320px;
+    margin: auto;
+}
+
+.footer-box-1{
+    align-items: center;
+    height: 250px;
+    background-color: #070211;
+    
+
+}
+.footer-txt-1{
+
+    
+    width: 375px;
+    height: 80px;
+    color: #FFF;
+font-family: 'Inter';
+font-size: 24px;
+
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+
+}
+
+/* .web img{
+    
+}
+.call img{
+    
+} */
+.footer-box-1-item-1{
+    margin-right: 500px;
+
+}
+.footer-box-1-item-2{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+   
+}
+.call-txt,.web-txt{
+    color: #FFF;
+    
+
+font-family: 'Inter';
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; 
+
+}
+.call-img{
+    margin-right: 16px;
+    cursor: pointer;
+    
+}
+.web img{
+cursor: pointer;
+    margin-right: 16px;
+}
+.call{
+    margin-bottom: 0px;
+    padding: 0;
+}
+.web{
+    margin-top: 0;
+    padding: 0;
+}
+
+
+.footer-box-2{
+    background-color: #070211;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    text-align: center;
+    align-items: center;
+  
+
+}
+
+.footer-box-2 img{
+    margin-right: 24px;
+}
+
+.footer-box-3{
+    height: 199px;
+    background-color: #070211;
+    text-align: center;
+   
+}
+.footer-box-3 p{
+    color: #FFF;
+font-family: 'Inter';
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+.is{
+    margin-right: 830px;
+}
+
+
+.benar-8{
+    width: 1320px;
+    height: 662px;
+   
+    position: relative;
+    margin: auto;
+
+}
+
+.benar-8-box-3{
+    top: 0px;
+    
+    position: absolute;
+    width: 98px;
+    height: 145px;
+    
+
+    
+}
+.benar-8-box-4{
+    position: absolute; 
+    top: 77px;
+    right: 280px;
+    
+}
+.benar-8-box-1{
+    display: flex;
+    float: right;
+}
+
+
+.benar-8-txt-1{
+    color: #070211;
+font-family: 'Inter';
+text-align: center;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 16px;
+
+}
+
+.benar-8-txt-2{
+    margin-top: 0px;
+    text-align: center;
+    color: #070211;
+font-family: 'Merriweather';
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+margin-bottom: 28px;
+}
+.benar-8-txt-3{
+    width: 1068px;
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: 'Inter';
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+margin: auto;
+}
+
